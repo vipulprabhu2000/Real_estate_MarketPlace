@@ -21,3 +21,8 @@ from django.conf.urls.static import static
 urlpatterns = [
     path('admin/', admin.site.urls),
 ]+static(settings.MEDIA_URL,document_root=settings.MEDIA_ROOT)
+
+
+admin.site.site_header="Real Estate Website Admin"
+admin.site.site_title="Real Estate Admin portal"
+admin.site.index_title="Welcome to the Real Estate Admin portal"
