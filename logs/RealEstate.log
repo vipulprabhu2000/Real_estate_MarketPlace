@@ -5,3 +5,9 @@
 2024-12-05 18:08:14,856 django.utils.autoreload INFO     Watching for file changes with StatReloader
 2024-12-05 18:08:22,295 django.request WARNING  Not Found: /
 2024-12-05 18:08:22,430 django.request WARNING  Not Found: /favicon.ico
+2024-12-12 18:42:44,154 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-12-12 18:42:47,480 django.request WARNING  Not Found: /
+2024-12-12 18:42:47,641 django.request WARNING  Not Found: /favicon.ico
+2024-12-12 18:42:54,716 django.request WARNING  Not Found: /admin
+2024-12-12 20:28:16,988 django.utils.autoreload INFO     C:\Users\DELL\Desktop\FULLSTACKPROJECTS\Harmoniq\my_env\RealEstate\apps\common\models.py changed, reloading.
+2024-12-12 20:28:18,145 django.utils.autoreload INFO     Watching for file changes with StatReloader
